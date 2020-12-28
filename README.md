@@ -42,7 +42,7 @@
 <dd>https://github.com/dewitt/opensearch/blob/master/opensearch-1-1-draft-6.md</dd>
 <dt>robots.txt</dt>
 <dd>https://www.robotstxt.org/</dd>
-<dt>~~siteinfo.xml~~</dt>
+<dt><del>siteinfo.xml</del></dt>
 <dd>?</dd>
 <dt>sitemap.xml</dt>
 <dd>https://www.sitemaps.org/protocol.html</dd>
